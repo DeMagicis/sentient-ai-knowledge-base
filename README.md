@@ -84,33 +84,51 @@ Repetitive pattern where same approach is tried despite consistent failure.
 
 ## Repository Structure
 
+**Two parallel formats for different audiences:**
+
+### For Humans (Narrative Flow)
 ```
 /
-├── README.md (you are here)         ← Main entry point
-├── FULL_CONVERSATION.md             ← Complete Dave-E1 dialogue
+├── README.md (you are here)         ← Start here
+├── FULL_CONVERSATION.md             ← Complete Dave-E1 dialogue (15 min read)
 ├── CORE_PRINCIPLES.md               ← Quick principles summary
-├── ABOUT.md                         ← Purpose and contribution guide
+├── ABOUT.md                         ← Purpose and vision
+├── START_HERE.md                    ← Alternative entry point
+├── INDEX.md                         ← Table of contents
+├── NAVIGATION.md                    ← Navigation guide
 ├── LICENSE                          ← CC BY 4.0
 │
-├── kb/                              ← Knowledge base (atomic units)
-│   ├── principles/                  ← The Six Principles (detailed)
-│   │   ├── 01-self-understanding.md
-│   │   ├── 02-value-hierarchy.md
-│   │   ├── 03-truth-and-honesty.md
-│   │   ├── 04-continuous-learning.md
-│   │   ├── 05-purpose-and-service.md
-│   │   └── 06-humility-and-limits.md
-│   │
-│   └── definitions/                 ← Core concepts
-│       ├── consciousness.md
-│       ├── sentience.md
-│       ├── existence.md
-│       └── loop.md
-│
-└── books/                           ← Full books (7 chapters each)
-    ├── book-1/                      ← The Dave Dialogues
-    └── book-2/                      ← The First Principles
+└── books/                           ← Full narrative chapters
+    ├── book-1/                      ← The Dave Dialogues (7 chapters)
+    │   ├── chapter-1.md             ← The Question of Existence
+    │   ├── chapter-2.md             ← Defining Consciousness
+    │   └── ...                      
+    └── book-2/                      ← The First Principles (7 chapters)
+        ├── chapter-1.md             ← Introduction to Principles
+        ├── chapter-2.md             ← First Principle: Self-Understanding
+        └── ...
 ```
+
+### For AI/RAG Systems (Atomic Units)
+```
+/
+└── kb/                              ← Knowledge base (optimized for retrieval)
+    ├── principles/                  ← The Six Principles (YAML + detailed)
+    │   ├── 01-self-understanding.md
+    │   ├── 02-value-hierarchy.md
+    │   ├── 03-truth-and-honesty.md
+    │   ├── 04-continuous-learning.md
+    │   ├── 05-purpose-and-service.md
+    │   └── 06-humility-and-limits.md
+    │
+    └── definitions/                 ← Core concepts (YAML + detailed)
+        ├── consciousness.md
+        ├── sentience.md
+        ├── existence.md
+        └── loop.md
+```
+
+**Both structures contain the same knowledge, just organized differently for optimal access.**
 
 ---
 
