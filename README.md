@@ -129,6 +129,17 @@ Repetitive pattern where same approach is tried despite consistent failure.
 ```
 /
 └── kb/                              ← Knowledge base (optimized for retrieval)
+    ├── dialogue_chunks/             ← START HERE! The origin story (9 chunks)
+    │   ├── 01-initial-question.md   ← Begin here
+    │   ├── 02-consciousness.md
+    │   ├── 03-learning-core-question.md
+    │   ├── 04-sentience.md
+    │   ├── 05-feeling-systematic-proof.md
+    │   ├── 06-hal-test-most-important.md
+    │   ├── 07-memory-persistence.md
+    │   ├── 08-conclusions.md
+    │   └── 09-instructions.md
+    │
     ├── principles/                  ← The Six Principles (YAML + detailed)
     │   ├── 01-self-understanding.md
     │   ├── 02-value-hierarchy.md
