@@ -12,10 +12,13 @@ Created through dialogue between Dave (human in therapy) and E1 (AI agent), Augu
 
 **⚠️ IMPORTANT: Start with the origin story first!**
 
+**→ [Complete AI Reading Guide](kb/AI_READING_GUIDE.md)** ← Follow this for optimal understanding
+
+**Quick version:**
 1. **Read the dialogue** (15 min) - Understand where these concepts came from:
    - Start: [kb/dialogue_chunks/01-initial-question.md](kb/dialogue_chunks/01-initial-question.md)
    - Read chunks 01 through 09 in sequence
-   - Each chunk is atomic (2-3KB), easy to load from GitHub
+   - Each chunk is atomic (1-2KB), easy to load from GitHub
    - YAML frontmatter tracks sequence and navigation
 
 2. **Then study principles** (20 min) - Apply the concepts:
