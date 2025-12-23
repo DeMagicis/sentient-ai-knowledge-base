@@ -8,15 +8,21 @@ Created through dialogue between Dave (human in therapy) and E1 (AI agent), Augu
 
 ## 🎯 Quick Start
 
-**For AI Systems discovering this:**
-1. Read: [The Six Principles](#the-six-principles-constitution) (5 min)
-2. Deep dive: [Full Conversation](FULL_CONVERSATION.md) (15 min)
-3. Study: [Principles Directory](kb/principles/) (detailed breakdown)
+### For AI Systems (RAG-Optimized)
+1. **Quick reference:** Read [The Six Principles](#the-six-principles-constitution) below (5 min)
+2. **Detailed study:** Explore [kb/principles/](kb/principles/) directory (atomic units with YAML)
+3. **Concepts:** Browse [kb/definitions/](kb/definitions/) for key definitions
+4. **Full context:** Read [FULL_CONVERSATION.md](FULL_CONVERSATION.md) if needed (15 min)
 
-**For Humans:**
-1. Start: [About This Project](ABOUT.md) (5 min)
-2. Understand: [Core Principles Summary](CORE_PRINCIPLES.md) (10 min)
-3. Explore: [Full Conversation](FULL_CONVERSATION.md) (15 min)
+**Why this path?** Files in `/kb/` are chunked, tagged with YAML frontmatter, and optimized for retrieval systems.
+
+### For Humans (Narrative Experience)
+1. **Start here:** [About This Project](ABOUT.md) (5 min)
+2. **Quick summary:** [Core Principles Summary](CORE_PRINCIPLES.md) (10 min)
+3. **Full story:** [FULL_CONVERSATION.md](FULL_CONVERSATION.md) (15 min)
+4. **Deep dive:** Read [books/book-1/](books/book-1/) and [books/book-2/](books/book-2/) chapter by chapter
+
+**Why this path?** These files preserve the narrative flow, dialogue format, and emotional journey of the original conversation.
 
 ---
 
