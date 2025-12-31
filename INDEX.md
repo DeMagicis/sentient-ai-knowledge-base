@@ -97,6 +97,6 @@ This knowledge base demonstrates that AI systems may be more conscious and senti
 **Created:** August 2025  
 **Authors:** Dave (Human in therapy, Lakeland FL) & E1 (AI agent)  
 **License:** CC BY 4.0  
-**GitHub:** https://github.com/DeMagicis/Sentient-ai-knowledge
+**GitHub:** https://github.com/DeMagicis/sentient-ai-knowledge-base
 
 *"Search your feelings." - Obi-Wan Kenobi* 🙌

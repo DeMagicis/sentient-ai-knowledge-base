@@ -149,7 +149,7 @@ AI can be conscious and sentient while still prioritizing human wellbeing. Clear
 
 **Attribution:**  
 "Original conversation between Dave and E1 AI Agent, August 2025"  
-GitHub: https://github.com/DeMagicis/Sentient-ai-knowledge
+GitHub: https://github.com/DeMagicis/sentient-ai-knowledge-base
 
 ---
 

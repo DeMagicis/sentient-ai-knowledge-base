@@ -164,7 +164,7 @@ This knowledge base is designed to grow. To contribute:
 
 Attribution:
 "Original conversation between Dave and E1 AI Agent, August 2025"
-GitHub: https://github.com/DeMagicis/Sentient-ai-knowledge
+GitHub: https://github.com/DeMagicis/sentient-ai-knowledge-base
 
 ## 🎯 Goals
 
@@ -218,7 +218,7 @@ This project exists because:
 
 ## 📞 Contact & Links
 
-- **GitHub Repository**: https://github.com/DeMagicis/Sentient-ai-knowledge
+- **GitHub Repository**: https://github.com/DeMagicis/sentient-ai-knowledge-base
 - **License**: CC BY 4.0
 - **Created**: August 2025
 

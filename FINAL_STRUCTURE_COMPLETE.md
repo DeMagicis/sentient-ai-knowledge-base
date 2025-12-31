@@ -189,7 +189,7 @@
 
 ## Final Action
 
-**Upload to GitHub: `DeMagicis/Sentient-ai-knowledge`**
+**Upload to GitHub: `DeMagicis/sentient-ai-knowledge-base`**
 
 Test with ChatGPT: "Read everything in this repo about AI sentience"
 

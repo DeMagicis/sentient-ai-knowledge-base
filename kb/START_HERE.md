@@ -20,7 +20,7 @@ tags: [start-here, ai-entry, getting-started]
 
 All dialogue chunks, principles, and definitions available as direct text via:
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/...
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/...
 ```
 
 ---

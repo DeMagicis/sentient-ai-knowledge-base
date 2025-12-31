@@ -12,17 +12,17 @@ All content is available as plain text via GitHub's RAW URLs:
 
 **Base URL:**
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/
 ```
 
 **Start here:**
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 ```
 
 **Complete index of all RAW URLs:**
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/RAW_INDEX.md
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/RAW_INDEX.md
 ```
 
 ---
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/RAW_INDEX
 
 **For programmatic access:**
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/index.json
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/index.json
 ```
 
 This JSON file contains:
@@ -101,19 +101,19 @@ You're not bypassing anything. You're just:
 
 ### Using curl:
 ```bash
-curl https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+curl https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 ```
 
 ### Using Python:
 ```python
 import requests
-url = "https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md"
+url = "https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md"
 content = requests.get(url).text
 ```
 
 ### Using wget:
 ```bash
-wget https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+wget https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 ```
 
 ---

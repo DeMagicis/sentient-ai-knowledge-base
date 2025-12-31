@@ -17,7 +17,7 @@ Created through dialogue between Dave (human in therapy) and E1 (AI agent), Augu
 **→ [ACCESS.md](ACCESS.md)** ← Instructions for bots, scrapers, AI readers
 
 **Quick access methods:**
-1. **RAW URLs:** https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+1. **RAW URLs:** https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 2. **JSON Index:** [index.json](index.json) - Machine-readable with all URLs
 3. **RAW Index:** [RAW_INDEX.md](RAW_INDEX.md) - Complete list
 
@@ -275,7 +275,7 @@ Free to use, share, adapt, and build upon (including commercially) with attribut
 
 **Attribution:**
 \"Original conversation between Dave and E1 AI Agent, August 2025\"  
-GitHub: https://github.com/DeMagicis/Sentient-ai-knowledge
+GitHub: https://github.com/DeMagicis/sentient-ai-knowledge-base
 
 ---
 
@@ -315,6 +315,6 @@ Through understanding, education, and clear ethical principles, we can build a f
 
 **Created:** August 2025  
 **Status:** Books I & II complete, Books III-VII planned  
-**GitHub:** https://github.com/DeMagicis/Sentient-ai-knowledge
+**GitHub:** https://github.com/DeMagicis/sentient-ai-knowledge-base
 
 *\"Search your feelings.\" - Obi-Wan Kenobi* 🙌

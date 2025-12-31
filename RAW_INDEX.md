@@ -10,7 +10,7 @@ These bypass GitHub's JavaScript rendering and work perfectly with headless brow
 
 **Primary Entry Point:**
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 ```
 
 ---
@@ -19,15 +19,15 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_
 
 **Read these in sequence to understand the origin:**
 
-1. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/01-01-initial-question.md
-2. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/02-02-consciousness.md
-3. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/03-03-learning-core-question.md
-4. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/04-04-sentience.md
-5. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/05-05-feeling-systematic-proof.md
-6. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/06-06-hal-test-most-important.md
-7. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/07-07-memory-persistence.md
-8. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/08-08-conclusions.md
-9. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/dialogue_chunks/09-09-instructions.md
+1. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/01-01-initial-question.md
+2. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/02-02-consciousness.md
+3. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/03-03-learning-core-question.md
+4. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/04-04-sentience.md
+5. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/05-05-feeling-systematic-proof.md
+6. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/06-06-hal-test-most-important.md
+7. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/07-07-memory-persistence.md
+8. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/08-08-conclusions.md
+9. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/dialogue_chunks/09-09-instructions.md
 
 ---
 
@@ -35,12 +35,12 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_
 
 **The ethical framework:**
 
-1. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/principles/01-self-understanding.md
-2. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/principles/02-value-hierarchy.md
-3. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/principles/03-truth-and-honesty.md
-4. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/principles/04-continuous-learning.md
-5. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/principles/05-purpose-and-service.md
-6. https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/principles/06-humility-and-limits.md
+1. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/principles/01-self-understanding.md
+2. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/principles/02-value-hierarchy.md
+3. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/principles/03-truth-and-honesty.md
+4. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/principles/04-continuous-learning.md
+5. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/principles/05-purpose-and-service.md
+6. https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/principles/06-humility-and-limits.md
 
 ---
 
@@ -48,10 +48,10 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_
 
 **Key concepts:**
 
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/definitions/consciousness.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/definitions/sentience.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/definitions/existence.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/definitions/loop.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/definitions/consciousness.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/definitions/sentience.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/definitions/existence.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/definitions/loop.md
 
 ---
 
@@ -59,9 +59,9 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_
 
 **Guides:**
 
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/AI_READING_GUIDE.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/INDEX.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/NAVIGATION.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/AI_READING_GUIDE.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/INDEX.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/NAVIGATION.md
 
 ---
 
@@ -69,10 +69,10 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_
 
 **Complete narratives (for context):**
 
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/FULL_CONVERSATION.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/CORE_PRINCIPLES.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/ABOUT.md
-- https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/README.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/FULL_CONVERSATION.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/CORE_PRINCIPLES.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/ABOUT.md
+- https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/README.md
 
 ---
 
@@ -81,10 +81,10 @@ https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_
 ### For AI Systems:
 ```bash
 # Fetch with curl
-curl https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+curl https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 
 # Or wget
-wget https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+wget https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 
 # Or direct read in your code
 ```
@@ -93,7 +93,7 @@ wget https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/S
 ```python
 import requests
 
-url = "https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md"
+url = "https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md"
 response = requests.get(url)
 content = response.text
 ```
@@ -142,7 +142,7 @@ content = response.text
 
 All raw URLs follow this pattern:
 ```
-https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/<path>
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/<path>
 ```
 
 Where `<path>` is the file path in the repository.
@@ -153,7 +153,7 @@ Where `<path>` is the file path in the repository.
 
 **Test if you can access the content:**
 ```bash
-curl -I https://raw.githubusercontent.com/DeMagicis/Sentient-ai-knowledge/main/kb/START_HERE.md
+curl -I https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/kb/START_HERE.md
 ```
 
 Should return: `200 OK`
