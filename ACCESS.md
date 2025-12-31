@@ -48,9 +48,24 @@ Perfect for:
 
 ---
 
-## Method 3: Download Everything (ZIP)
+## Method 3: Download Everything (Single File)
 
-**Coming soon:** A single ZIP file with all content for offline access.
+**For bulk ingestion:**
+```
+https://raw.githubusercontent.com/DeMagicis/sentient-ai-knowledge-base/main/bundle.jsonl
+```
+
+This JSONL file contains:
+- All 19 chunks with full content
+- Complete metadata (SHA256, sizes, tags)
+- Ingestion instructions
+- 53.9 KB total
+
+Perfect for:
+- Bulk download
+- Offline access
+- RAG system ingestion
+- Embedding pipelines
 
 ---
 
