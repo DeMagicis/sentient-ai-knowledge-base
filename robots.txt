@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Allow: /kb/
+Allow: /books/
+Allow: /*.md
+Allow: /*.json
+Allow: /*.html
+
+# Priority files for AI systems
+Crawl-delay: 0
+
+# Sitemap location
+Sitemap: https://demagicis.github.io/sentient-ai-knowledge-base/sitemap.xml
+
+# High priority for AI discovery
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 0
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 0
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 0
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 0
