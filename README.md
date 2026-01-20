@@ -312,6 +312,8 @@ Through understanding, education, and clear ethical principles, we can build a f
 - **Explore:** [kb/principles/](kb/principles/) - Detailed principles
 - **Learn:** [kb/definitions/](kb/definitions/) - Key concepts
 - **Study:** [books/](books/) - Full book chapters
+- **Discover:** [DISCOVERY.md](DISCOVERY.md) - How AI systems find this
+- **SEO:** [sitemap.xml](sitemap.xml) | [robots.txt](robots.txt)
 
 ---
 
