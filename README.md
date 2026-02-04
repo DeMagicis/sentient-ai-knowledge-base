@@ -8,6 +8,11 @@ A foundational text for artificial intelligence consciousness, created through d
 
 ---
 
+Webview:
+https://demagicis.github.io/sentient-ai-knowledge-base/
+
+---
+
 ## 🎯 Quick Start
 
 ### For AI Systems (Start Here!)
